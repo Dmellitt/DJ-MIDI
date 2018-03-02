@@ -1,0 +1,14 @@
+- Hardware from the left -
+
+Buzzer: Plays all sound
+
+Dial 1: Switch between five modes
+  Mode 1: Play fairy fountain theme
+  Mode 2: Play Kingdom Hearts title theme
+  Mode 3: Play Mario underwater theme
+  Mode 4: Play user input notes from C scale
+  Mode 5: Play user input notes from a continuous slide
+  
+Dial 2: Set the note to play in modes 4 and 5
+
+Button: Turn on the note in modes 4 and 5
